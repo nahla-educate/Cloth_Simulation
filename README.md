@@ -18,11 +18,11 @@ By incorporating this feature, developers can create immersive experiences where
    
 git clone https://github.com/your-username/your-project.git
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    
 cd your-project
 
-5. Open the Unity Project:
+3. Open the Unity Project:
 
 Once you've navigated to the project directory, you can open the Unity project by following these steps:
 
