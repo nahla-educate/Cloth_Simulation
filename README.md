@@ -26,15 +26,13 @@ cd your-project
 
 Once you've navigated to the project directory, you can open the Unity project by following these steps:
 
-Launch the Unity Hub application (if you haven't installed it yet, download and install it from the Unity website).
+* Launch the Unity Hub application (if you haven't installed it yet, download and install it from the Unity website).
 
-In Unity Hub, click on the "Projects" tab.
+* Click on the "Add" button and navigate to the directory where you cloned the project.
 
-Click on the "Add" button and navigate to the directory where you cloned the project.
+* Select the project folder (the one containing the Assets, ProjectSettings, etc. directories) and click "Select Folder".
 
-Select the project folder (the one containing the Assets, ProjectSettings, etc. directories) and click "Select Folder".
-
-The project will now appear in your Unity Hub projects list. Click on it to open it in the Unity Editor.
+* The project will now appear in your Unity Hub projects list. Click on it to open it in the Unity Editor.
 
 ## Technologies Used
 
